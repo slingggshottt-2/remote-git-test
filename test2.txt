@@ -1,2 +1,6 @@
 this is make in other branch
+
 this line was made in main branch
+this line was added in other branch
+
+this line is added during merge conflict resolving
