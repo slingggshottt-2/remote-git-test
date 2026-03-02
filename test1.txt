@@ -1,2 +1,4 @@
 this is file1
 divyansh made this chnge in other branch
+this is not file1
+added this line during merge conflict
